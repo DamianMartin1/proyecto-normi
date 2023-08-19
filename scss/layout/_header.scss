@@ -1,0 +1,15 @@
+header{
+    background: #0E6AF4;
+    .navbar-brand{
+        transition: transform 0.4s cubic-bezier(0.37, 0, 0.63, 1);
+        &:hover{
+            transform: scale(1.1);
+        }
+    }
+}
+.nav-item{
+    transition: transform 0.4s cubic-bezier(0.37, 0, 0.63, 1);
+    &:hover{
+        transform: scale(1.1);
+    }
+}
