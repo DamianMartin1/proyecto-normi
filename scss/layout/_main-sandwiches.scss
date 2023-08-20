@@ -1,0 +1,144 @@
+.main-sand{
+    width: 100%;
+    background-color: $background-principal;
+    section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 3.125rem;
+        gap: 3.125rem;
+        .div-1{
+            border-radius: .375rem;
+            background-color: white;
+            width: 60%;
+            height: 10.9375rem;
+            display: flex;
+            flex-direction: row;
+            img{
+                width: 44%;
+                height: 8.75rem;
+                align-self: center;
+                margin-left: 1.1875rem;
+                border-radius: 5px;
+            }
+            div{
+                width: 100%;
+                text-align: center;
+                h1{
+                    font-family: 'Hind Madurai', sans-serif;
+                    font-weight: 500;
+                    font-size: 2.25rem;
+                    padding-top: .3125rem;
+                }
+                p{
+                    padding-top: .4375rem;
+                    font-size: 1.5625rem;
+                    font-weight: bold;
+                }
+                h3{
+                    padding-top: 1rem;
+                }
+            }
+        }
+        .div-2{
+            border-radius: .375rem;
+            background-color: white;
+            width: 60%;
+            height: 10.9375rem;
+            display: flex;
+            flex-direction: row;
+            img{
+                width: 30%;
+                height: 8.75rem;
+                align-self: center;
+                margin-left: 1.1875rem;
+                border-radius: 5px;
+            }
+            div{
+                width: 100%;
+                text-align: center;
+                h2{
+                    font-family: 'Hind Madurai', sans-serif;
+                    font-weight: 500;
+                    font-size: 1.875rem;
+                    padding-top: .3125rem;
+                }
+                p{
+                    padding-top: .4375rem;
+                    font-size: 1.5625rem;
+                    font-weight: bold;
+                }
+                h3{
+                    padding-top: 1rem;
+                }
+            }
+        }
+        .div-3{
+            border-radius: .375rem;
+            background-color: white;
+            width: 60%;
+            height: 10.9375rem;
+            display: flex;
+            flex-direction: row;
+            img{
+                width: 30%;
+                height: 8.75rem;
+                align-self: center;
+                margin-left: 1.1875rem;
+                border-radius: 5px;
+            }
+            div{
+                width: 100%;
+                text-align: center;
+                h2{
+                    font-family: 'Hind Madurai', sans-serif;
+                    font-weight: 500;
+                    font-size: 1.875rem;
+                    padding-top: .3125rem;
+                }
+                p{
+                    padding-top: .4375rem;
+                    font-size: 1.5625rem;
+                    font-weight: bold;
+                }
+                h3{
+                    padding-top: 1rem;
+                }
+            }
+        }
+        .div-4{
+            border-radius: .375rem;
+            background-color: white;
+            width: 60%;
+            height: 10.9375rem;
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 50px;
+            img{
+                width: 44%;
+                height: 8.75rem;
+                align-self: center;
+                margin-left: 1.1875rem;
+                border-radius: 5px;
+            }
+            div{
+                width: 100%;
+                text-align: center;
+                h2{
+                    font-family: 'Hind Madurai', sans-serif;
+                    font-weight: 500;
+                    font-size: 1.875rem;
+                    padding-top: .3125rem;
+                }
+                p{
+                    padding-top: .4375rem;
+                    font-size: 1.5625rem;
+                    font-weight: bold;
+                }
+                h3{
+                    padding-top: 1rem;
+                }
+            }
+        }
+    }
+}
