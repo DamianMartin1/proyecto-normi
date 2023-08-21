@@ -1,5 +1,4 @@
-.main-sand{
-    width: 100%;
+.main-tortillas{
     background-color: $background-principal;
     section{
         display: flex;
@@ -15,11 +14,11 @@
             display: flex;
             flex-direction: row;
             img{
-                width: 36%;
+                width: 40%;
                 height: 8.75rem;
                 align-self: center;
                 margin-left: 1.1875rem;
-                border-radius: 5px;
+                border-radius: .3125rem;
             }
             div{
                 width: 100%;
@@ -27,16 +26,16 @@
                 h1{
                     font-family: 'Hind Madurai', sans-serif;
                     font-weight: 500;
-                    font-size: 2.25rem;
+                    font-size: 2.5rem;
                     padding-top: .3125rem;
                 }
                 p{
-                    padding-top: .4375rem;
+                    padding-top: 1.125rem;
                     font-size: 1.5625rem;
                     font-weight: bold;
                 }
                 h3{
-                    padding-top: 1rem;
+                    padding-top: 1.875rem;
                 }
             }
         }
@@ -48,11 +47,11 @@
             display: flex;
             flex-direction: row;
             img{
-                width: 26.400%;
+                width: 40%;
                 height: 8.75rem;
                 align-self: center;
                 margin-left: 1.1875rem;
-                border-radius: 5px;
+                border-radius: .3125rem;
             }
             div{
                 width: 100%;
@@ -64,12 +63,12 @@
                     padding-top: .3125rem;
                 }
                 p{
-                    padding-top: .4375rem;
+                    padding-top: 1.875rem;
                     font-size: 1.5625rem;
                     font-weight: bold;
                 }
                 h3{
-                    padding-top: 1rem;
+                    padding-top: 1.5625rem;
                 }
             }
         }
@@ -80,46 +79,13 @@
             height: 10.9375rem;
             display: flex;
             flex-direction: row;
-            img{
-                width: 26.400%;
-                height: 8.75rem;
-                align-self: center;
-                margin-left: 1.1875rem;
-                border-radius: 5px;
-            }
-            div{
-                width: 100%;
-                text-align: center;
-                h2{
-                    font-family: 'Hind Madurai', sans-serif;
-                    font-weight: 500;
-                    font-size: 1.875rem;
-                    padding-top: .3125rem;
-                }
-                p{
-                    padding-top: .4375rem;
-                    font-size: 1.5625rem;
-                    font-weight: bold;
-                }
-                h3{
-                    padding-top: 1rem;
-                }
-            }
-        }
-        .div-4{
-            border-radius: .375rem;
-            background-color: white;
-            width: 60%;
-            height: 10.9375rem;
-            display: flex;
-            flex-direction: row;
             margin-bottom: 3.125rem;
             img{
-                width: 38%;
+                width: 28%;
                 height: 8.75rem;
                 align-self: center;
                 margin-left: 1.1875rem;
-                border-radius: 5px;
+                border-radius: .3125rem;
             }
             div{
                 width: 100%;
@@ -127,16 +93,16 @@
                 h2{
                     font-family: 'Hind Madurai', sans-serif;
                     font-weight: 500;
-                    font-size: 1.875rem;
+                    font-size: 2.1875rem;
                     padding-top: .3125rem;
                 }
                 p{
-                    padding-top: .4375rem;
+                    padding-top: 1.0625rem;
                     font-size: 1.5625rem;
                     font-weight: bold;
                 }
                 h3{
-                    padding-top: 1rem;
+                    padding-top: 1.5625rem;
                 }
             }
         }

@@ -222,7 +222,7 @@ header .navbar-brand:hover {
   flex-direction: row;
 }
 .main-sand section .div-1 img {
-  width: 44%;
+  width: 36%;
   height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
@@ -255,7 +255,7 @@ header .navbar-brand:hover {
   flex-direction: row;
 }
 .main-sand section .div-2 img {
-  width: 30%;
+  width: 26.4%;
   height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
@@ -288,7 +288,7 @@ header .navbar-brand:hover {
   flex-direction: row;
 }
 .main-sand section .div-3 img {
-  width: 30%;
+  width: 26.4%;
   height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
@@ -319,10 +319,10 @@ header .navbar-brand:hover {
   height: 10.9375rem;
   display: flex;
   flex-direction: row;
-  margin-bottom: 50px;
+  margin-bottom: 3.125rem;
 }
 .main-sand section .div-4 img {
-  width: 44%;
+  width: 38%;
   height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
@@ -344,6 +344,372 @@ header .navbar-brand:hover {
   font-weight: bold;
 }
 .main-sand section .div-4 div h3 {
+  padding-top: 1rem;
+}
+
+.main-papas {
+  background-color: #1D1C1C;
+}
+.main-papas section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3.125rem;
+  gap: 3.125rem;
+}
+.main-papas section .div-1 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-papas section .div-1 img {
+  width: 40%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-papas section .div-1 div {
+  width: 100%;
+  text-align: center;
+}
+.main-papas section .div-1 div h1 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 2.5rem;
+  padding-top: 0.3125rem;
+}
+.main-papas section .div-1 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-papas section .div-1 div h3 {
+  padding-top: 1rem;
+}
+.main-papas section .div-2 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-papas section .div-2 img {
+  width: 40%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-papas section .div-2 div {
+  width: 100%;
+  text-align: center;
+}
+.main-papas section .div-2 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-papas section .div-2 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-papas section .div-2 div h3 {
+  padding-top: 1rem;
+}
+.main-papas section .div-3 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3.125rem;
+}
+.main-papas section .div-3 img {
+  width: 40%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-papas section .div-3 div {
+  width: 100%;
+  text-align: center;
+}
+.main-papas section .div-3 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-papas section .div-3 div p {
+  padding-top: 2.0625rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-papas section .div-3 div h3 {
+  padding-top: 1.5625rem;
+}
+
+.main-tortillas {
+  background-color: #1D1C1C;
+}
+.main-tortillas section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3.125rem;
+  gap: 3.125rem;
+}
+.main-tortillas section .div-1 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-tortillas section .div-1 img {
+  width: 40%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-tortillas section .div-1 div {
+  width: 100%;
+  text-align: center;
+}
+.main-tortillas section .div-1 div h1 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 2.5rem;
+  padding-top: 0.3125rem;
+}
+.main-tortillas section .div-1 div p {
+  padding-top: 1.125rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-tortillas section .div-1 div h3 {
+  padding-top: 1.875rem;
+}
+.main-tortillas section .div-2 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-tortillas section .div-2 img {
+  width: 40%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-tortillas section .div-2 div {
+  width: 100%;
+  text-align: center;
+}
+.main-tortillas section .div-2 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-tortillas section .div-2 div p {
+  padding-top: 1.875rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-tortillas section .div-2 div h3 {
+  padding-top: 1.5625rem;
+}
+.main-tortillas section .div-3 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3.125rem;
+}
+.main-tortillas section .div-3 img {
+  width: 28%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 0.3125rem;
+}
+.main-tortillas section .div-3 div {
+  width: 100%;
+  text-align: center;
+}
+.main-tortillas section .div-3 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 2.1875rem;
+  padding-top: 0.3125rem;
+}
+.main-tortillas section .div-3 div p {
+  padding-top: 1.0625rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-tortillas section .div-3 div h3 {
+  padding-top: 1.5625rem;
+}
+
+.main-lomito {
+  background-color: #1D1C1C;
+}
+.main-lomito section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3.125rem;
+  gap: 3.125rem;
+}
+.main-lomito section .div-1 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-lomito section .div-1 img {
+  width: 38%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 5px;
+}
+.main-lomito section .div-1 div {
+  width: 100%;
+  text-align: center;
+}
+.main-lomito section .div-1 div h1 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 2.25rem;
+  padding-top: 0.3125rem;
+}
+.main-lomito section .div-1 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-lomito section .div-1 div h3 {
+  padding-top: 1rem;
+}
+.main-lomito section .div-2 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-lomito section .div-2 img {
+  width: 38%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 5px;
+}
+.main-lomito section .div-2 div {
+  width: 100%;
+  text-align: center;
+}
+.main-lomito section .div-2 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-lomito section .div-2 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-lomito section .div-2 div h3 {
+  padding-top: 1rem;
+}
+.main-lomito section .div-3 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+}
+.main-lomito section .div-3 img {
+  width: 38%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 5px;
+}
+.main-lomito section .div-3 div {
+  width: 100%;
+  text-align: center;
+}
+.main-lomito section .div-3 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-lomito section .div-3 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-lomito section .div-3 div h3 {
+  padding-top: 1rem;
+}
+.main-lomito section .div-4 {
+  border-radius: 0.375rem;
+  background-color: white;
+  width: 60%;
+  height: 10.9375rem;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3.125rem;
+}
+.main-lomito section .div-4 img {
+  width: 27%;
+  height: 8.75rem;
+  align-self: center;
+  margin-left: 1.1875rem;
+  border-radius: 5px;
+}
+.main-lomito section .div-4 div {
+  width: 100%;
+  text-align: center;
+}
+.main-lomito section .div-4 div h2 {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 1.875rem;
+  padding-top: 0.3125rem;
+}
+.main-lomito section .div-4 div p {
+  padding-top: 0.4375rem;
+  font-size: 1.5625rem;
+  font-weight: bold;
+}
+.main-lomito section .div-4 div h3 {
   padding-top: 1rem;
 }
 
