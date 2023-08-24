@@ -6,7 +6,6 @@
 }
 
 body {
-  font-family: "Hind Madurai", sans-serif;
   line-height: normal;
 }
 
@@ -217,17 +216,17 @@ header .navbar-brand:hover {
 .main-sand section .div-1 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 70%;
-  height: 12.5rem;
+  width: 60%;
+  height: 10.9375rem;
   display: flex;
   flex-direction: row;
 }
 .main-sand section .div-1 img {
-  width: 26%;
-  height: 10.9375rem;
+  width: 36%;
+  height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
-  border-radius: 0.3125rem;
+  border-radius: 5px;
 }
 .main-sand section .div-1 div {
   width: 100%;
@@ -240,7 +239,7 @@ header .navbar-brand:hover {
   padding-top: 0.3125rem;
 }
 .main-sand section .div-1 div p {
-  padding-top: 1rem;
+  padding-top: 0.4375rem;
   font-size: 1.5625rem;
   font-weight: bold;
 }
@@ -250,17 +249,17 @@ header .navbar-brand:hover {
 .main-sand section .div-2 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 70%;
-  height: 11.875rem;
+  width: 60%;
+  height: 10.9375rem;
   display: flex;
   flex-direction: row;
 }
 .main-sand section .div-2 img {
   width: 26.4%;
-  height: 10.9375rem;
+  height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
-  border-radius: 0.3125rem;
+  border-radius: 5px;
 }
 .main-sand section .div-2 div {
   width: 100%;
@@ -269,31 +268,31 @@ header .navbar-brand:hover {
 .main-sand section .div-2 div h2 {
   font-family: "Hind Madurai", sans-serif;
   font-weight: 500;
-  font-size: 1.6875rem;
+  font-size: 1.875rem;
   padding-top: 0.3125rem;
 }
 .main-sand section .div-2 div p {
-  padding-top: 0.3125rem;
+  padding-top: 0.4375rem;
   font-size: 1.5625rem;
   font-weight: bold;
 }
 .main-sand section .div-2 div h3 {
-  padding-top: 0.3125rem;
+  padding-top: 1rem;
 }
 .main-sand section .div-3 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 70%;
-  height: 11.875rem;
+  width: 60%;
+  height: 10.9375rem;
   display: flex;
   flex-direction: row;
 }
 .main-sand section .div-3 img {
   width: 26.4%;
-  height: 10.9375rem;
+  height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
-  border-radius: 0.3125rem;
+  border-radius: 5px;
 }
 .main-sand section .div-3 div {
   width: 100%;
@@ -316,18 +315,18 @@ header .navbar-brand:hover {
 .main-sand section .div-4 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 70%;
-  height: 11.875rem;
+  width: 60%;
+  height: 10.9375rem;
   display: flex;
   flex-direction: row;
   margin-bottom: 3.125rem;
 }
 .main-sand section .div-4 img {
-  width: 26%;
-  height: 10.9375rem;
+  width: 38%;
+  height: 8.75rem;
   align-self: center;
   margin-left: 1.1875rem;
-  border-radius: 0.3125rem;
+  border-radius: 5px;
 }
 .main-sand section .div-4 div {
   width: 100%;
@@ -336,7 +335,7 @@ header .navbar-brand:hover {
 .main-sand section .div-4 div h2 {
   font-family: "Hind Madurai", sans-serif;
   font-weight: 500;
-  font-size: 1.6875rem;
+  font-size: 1.875rem;
   padding-top: 0.3125rem;
 }
 .main-sand section .div-4 div p {
@@ -345,7 +344,7 @@ header .navbar-brand:hover {
   font-weight: bold;
 }
 .main-sand section .div-4 div h3 {
-  padding-top: 0.3125rem;
+  padding-top: 1rem;
 }
 
 .main-papas {
@@ -761,94 +760,6 @@ header .navbar-brand:hover {
   .main-index section .card-4 div {
     margin-left: 7.8125rem;
   }
-  .main-sand section .div-1 {
-    width: 77%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-1 img {
-    width: 26%;
-    height: 10.625rem;
-  }
-  .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.8125rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-1 div p {
-    padding-top: 1rem;
-    font-size: 1.5625rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-1 div h3 {
-    padding-top: 1rem;
-  }
-  .main-sand section .div-2 {
-    width: 77%;
-    height: 13.125rem;
-  }
-  .main-sand section .div-2 img {
-    width: 26%;
-    height: 10.625rem;
-  }
-  .main-sand section .div-2 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 2.25rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-2 div p {
-    padding-top: 0.625rem;
-    font-size: 1.5625rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-2 div h3 {
-    padding-top: 1rem;
-  }
-  .main-sand section .div-3 {
-    width: 77%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-3 img {
-    width: 26%;
-    height: 10.625rem;
-  }
-  .main-sand section .div-3 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.8125rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-3 div p {
-    padding-top: 1rem;
-    font-size: 1.5625rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-3 div h3 {
-    padding-top: 1rem;
-  }
-  .main-sand section .div-4 {
-    width: 77%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-4 img {
-    width: 26%;
-    height: 10.625rem;
-  }
-  .main-sand section .div-4 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 2.25rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-4 div p {
-    padding-top: 1rem;
-    font-size: 1.5625rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-4 div h3 {
-    padding-top: 0.625rem;
-  }
 }
 @media (max-width: 768px) {
   .main-index .div-h1 h1 {
@@ -908,98 +819,6 @@ header .navbar-brand:hover {
   }
   .main-index section .card-4 div {
     margin-left: 6.25rem;
-  }
-  .main-sand section .div-1 {
-    width: 77%;
-    height: 11.25rem;
-  }
-  .main-sand section .div-1 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.75rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-1 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-1 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-2 {
-    width: 77%;
-    height: 11.25rem;
-  }
-  .main-sand section .div-2 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.75rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-2 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-2 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1rem;
-  }
-  .main-sand section .div-3 {
-    width: 77%;
-    height: 11.25rem;
-  }
-  .main-sand section .div-3 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.75rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-3 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-3 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1rem;
-  }
-  .main-sand section .div-4 {
-    width: 77%;
-    height: 11.25rem;
-  }
-  .main-sand section .div-4 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.75rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-4 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-4 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1rem;
   }
 }
 @media (max-width: 650px) {
@@ -1061,194 +880,10 @@ header .navbar-brand:hover {
   .main-index section .card-4 div {
     margin-left: 6.25rem;
   }
-  .main-sand section .div-1 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-1 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.5625rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-1 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-1 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-2 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-2 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.5625rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-2 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-2 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-3 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-3 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.5625rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-3 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-3 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1rem;
-  }
-  .main-sand section .div-4 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-4 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.5625rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-4 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-4 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 0.625rem;
-  }
 }
 @media (max-width: 480px) {
   .main-index .div-h1 h1 {
     padding-top: 0.5rem;
-  }
-  .main-sand section .div-1 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-1 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-1 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-1 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-2 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-2 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-2 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-2 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-3 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-3 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-3 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-3 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 1rem;
-  }
-  .main-sand section .div-4 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-4 img {
-    width: 26%;
-    height: 8.75rem;
-  }
-  .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
-    font-weight: 500;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-4 div p {
-    padding-top: 0.625rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-4 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 0.625rem;
   }
 }
 @media (max-width: 379px) {
@@ -1307,99 +942,6 @@ header .navbar-brand:hover {
   .main-index section .card-4 div {
     margin-left: 6.25rem;
   }
-  .main-sand section {
-    gap: 1.5625rem;
-  }
-  .main-sand section .div-1 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-1 img {
-    margin-left: 0.25rem;
-    width: 30%;
-    height: 7.5rem;
-  }
-  .main-sand section .div-1 div h1 {
-    font-weight: 700;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-1 div p {
-    padding-top: 1.875rem;
-    font-size: 1.25rem;
-    font-weight: 700;
-  }
-  .main-sand section .div-1 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1.5rem;
-  }
-  .main-sand section .div-2 {
-    width: 90%;
-    height: 13.4375rem;
-  }
-  .main-sand section .div-2 img {
-    margin-left: 0.25rem;
-    width: 30%;
-    height: 7.5rem;
-  }
-  .main-sand section .div-2 div h2 {
-    font-weight: 600;
-    font-size: 1.4375rem;
-  }
-  .main-sand section .div-2 div p {
-    padding-top: 0.3125rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-2 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 0.625rem;
-  }
-  .main-sand section .div-3 {
-    width: 90%;
-    height: 12.5rem;
-  }
-  .main-sand section .div-3 img {
-    margin-left: 0.25rem;
-    width: 30%;
-    height: 7.5rem;
-  }
-  .main-sand section .div-3 div h2 {
-    font-weight: 700;
-    font-size: 1.4375rem;
-    padding-top: 0.3125rem;
-  }
-  .main-sand section .div-3 div p {
-    padding-top: 1.875rem;
-    font-size: 1.25rem;
-    font-weight: 700;
-  }
-  .main-sand section .div-3 div h3 {
-    font-size: 1.5625rem;
-    padding-top: 1.5rem;
-  }
-  .main-sand section .div-4 {
-    width: 90%;
-    height: 13.4375rem;
-  }
-  .main-sand section .div-4 img {
-    margin-left: 0.25rem;
-    width: 30%;
-    height: 7.5rem;
-  }
-  .main-sand section .div-4 div h2 {
-    font-weight: 600;
-    font-size: 1.4375rem;
-  }
-  .main-sand section .div-4 div p {
-    padding-top: 0.3125rem;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-  .main-sand section .div-4 div h3 {
-    font-size: 1.4375rem;
-    padding-top: 0.625rem;
-  }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.cs.map */
