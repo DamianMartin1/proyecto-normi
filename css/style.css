@@ -2071,6 +2071,7 @@ header .navbar-brand:hover {
     height: 90%;
   }
   .main-index section .card-1 img {
+    margin-left: 1.625rem;
     width: 15.625rem;
     height: 12.5rem;
   }
@@ -2084,6 +2085,7 @@ header .navbar-brand:hover {
     height: 90%;
   }
   .main-index section .card-2 img {
+    margin-left: 1.625rem;
     width: 15.625rem;
     height: 12.5rem;
   }
@@ -2097,6 +2099,7 @@ header .navbar-brand:hover {
     height: 90%;
   }
   .main-index section .card-3 img {
+    margin-left: 1.625rem;
     width: 15.625rem;
     height: 12.5rem;
   }
@@ -2110,6 +2113,7 @@ header .navbar-brand:hover {
     height: 90%;
   }
   .main-index section .card-4 img {
+    margin-left: 1.625rem;
     width: 15.625rem;
     height: 12.5rem;
   }
