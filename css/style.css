@@ -583,7 +583,7 @@ header .navbar-brand:hover {
 .main-lomito section .div-1 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 60%;
+  width: 75%;
   height: 10.9375rem;
   display: flex;
   flex-direction: row;
@@ -616,7 +616,7 @@ header .navbar-brand:hover {
 .main-lomito section .div-2 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 60%;
+  width: 75%;
   height: 10.9375rem;
   display: flex;
   flex-direction: row;
@@ -649,7 +649,7 @@ header .navbar-brand:hover {
 .main-lomito section .div-3 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 60%;
+  width: 75%;
   height: 10.9375rem;
   display: flex;
   flex-direction: row;
@@ -682,7 +682,7 @@ header .navbar-brand:hover {
 .main-lomito section .div-4 {
   border-radius: 0.375rem;
   background-color: white;
-  width: 60%;
+  width: 75%;
   height: 10.9375rem;
   display: flex;
   flex-direction: row;
@@ -1427,12 +1427,13 @@ header .navbar-brand:hover {
   .main-index section .card-1 img {
     width: 15.625rem;
     height: 12.5rem;
+    margin-left: 2.8125rem;
   }
   .main-index section .card-1 h2 {
     padding-top: 1rem;
   }
   .main-index section .card-1 div {
-    margin-left: 6.25rem;
+    margin-left: 7.6875rem;
   }
   .main-index section .card-2 {
     height: 90%;
@@ -1440,12 +1441,13 @@ header .navbar-brand:hover {
   .main-index section .card-2 img {
     width: 15.625rem;
     height: 12.5rem;
+    margin-left: 2.8125rem;
   }
   .main-index section .card-2 h2 {
     padding-top: 1rem;
   }
   .main-index section .card-2 div {
-    margin-left: 6.25rem;
+    margin-left: 7.6875rem;
   }
   .main-index section .card-3 {
     height: 90%;
@@ -1453,12 +1455,13 @@ header .navbar-brand:hover {
   .main-index section .card-3 img {
     width: 15.625rem;
     height: 12.5rem;
+    margin-left: 2.8125rem;
   }
   .main-index section .card-3 h2 {
     padding-top: 1rem;
   }
   .main-index section .card-3 div {
-    margin-left: 6.25rem;
+    margin-left: 7.6875rem;
   }
   .main-index section .card-4 {
     height: 90%;
@@ -1466,12 +1469,13 @@ header .navbar-brand:hover {
   .main-index section .card-4 img {
     width: 15.625rem;
     height: 12.5rem;
+    margin-left: 2.8125rem;
   }
   .main-index section .card-4 h2 {
     padding-top: 1rem;
   }
   .main-index section .card-4 div {
-    margin-left: 6.25rem;
+    margin-left: 7.6875rem;
   }
   .main-sand section .div-1 {
     width: 90%;
@@ -2318,13 +2322,16 @@ header .navbar-brand:hover {
   .main-tortillas section .div-2 div h3 {
     padding-top: 0.1875rem;
   }
+  .main-lomito section .div-1 img {
+    height: 7.5rem;
+  }
   .main-lomito section .div-2 {
     width: 92%;
     height: 13.4375rem;
   }
   .main-lomito section .div-2 img {
     width: 27%;
-    height: 8.75rem;
+    height: 7.5rem;
     margin-left: 0.4375rem;
   }
   .main-lomito section .div-2 div h2 {
@@ -2340,13 +2347,16 @@ header .navbar-brand:hover {
   .main-lomito section .div-2 div h3 {
     padding-top: 0.625rem;
   }
+  .main-lomito section .div-3 img {
+    height: 7.5rem;
+  }
   .main-lomito section .div-4 {
     width: 92%;
     height: 13.4375rem;
   }
   .main-lomito section .div-4 img {
     width: 27%;
-    height: 8.75rem;
+    height: 7.5rem;
     margin-left: 0.4375rem;
   }
   .main-lomito section .div-4 div h2 {

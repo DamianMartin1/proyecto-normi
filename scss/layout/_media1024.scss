@@ -1,0 +1,398 @@
+@media (max-width:1024px) {
+    .main-index {
+        .div-h1 {
+            h1 {
+                width: 70%;
+            }
+        }
+        section {
+            grid-template-columns: repeat(2, 21.875rem);
+            .card-1 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-2 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-3 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-4 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+        }
+    }
+    .main-sand{
+        section{
+            .div-1{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 26%;
+                    height: 10.625rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 1.8125rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1rem;
+                        font-size: 1.5625rem;
+                        font-weight: 500;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-2{
+                width: 77%;
+                height: 13.125rem;
+                img{
+                    width: 26%;
+                    height: 10.625rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 2.25rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .625rem;
+                        font-size: 1.5625rem;
+                        font-weight: 500;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-3{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 26%;
+                    height: 10.625rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 1.8125rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1rem;
+                        font-size: 1.5625rem;
+                        font-weight: 500;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-4{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 26%;
+                    height: 10.625rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 2.25rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1rem;
+                        font-size: 1.5625rem;
+                        font-weight: 500;
+                    }
+                    h3{
+                        padding-top: .625rem;
+                    }
+                }
+            }
+        }
+    }
+    .main-papas{
+        section{
+            .div-1{
+                width: 80%;
+                height: 11.875rem;
+                img{
+                    width: 40%;
+                    height: 8.75rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 2.5rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-2{
+                width: 80%;
+                height: 11.875rem;
+                img{
+                    width: 40%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 1.875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: .1875rem;
+                    }
+                }
+            }
+            .div-3{
+                width: 80%;
+                height: 11.875rem;
+                img{
+                    width: 40%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 1.875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 2.0625rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1.5625rem;
+                    }
+                }
+            }
+        }
+    }
+    .main-tortillas{
+        section{
+            .div-1{
+                width: 75%;
+                height: 10.9375rem;
+                img{
+                    width: 40%;
+                    height: 8.75rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 2.5rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1.125rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1.875rem;
+                    }
+                }
+            }
+            .div-2{
+                width: 75%;
+                height: 10.9375rem;
+                img{
+                    width: 28%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 1.875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1.875rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1.5625rem;
+                    }
+                }
+            }
+            .div-3{
+                width: 75%;
+                height: 10.9375rem;
+                img{
+                    width: 28%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 2.1875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: 1.0625rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1.5625rem;
+                    }
+                }
+            }
+        }
+    }
+    .main-lomito{
+        section{
+            .div-1{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 38%;
+                    height: 8.75rem;
+                }
+                div{
+                    h1{
+                        font-weight: 500;
+                        font-size: 2.25rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-2{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 27%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 1.875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-3{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 27%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 1.875rem;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+            .div-4{
+                width: 77%;
+                height: 12.5rem;
+                img{
+                    width: 27%;
+                    height: 8.75rem;
+                }
+                div{
+                    h2{
+                        font-weight: 500;
+                        font-size: 25px;
+                        padding-top: .3125rem;
+                    }
+                    p{
+                        padding-top: .4375rem;
+                        font-size: 1.5625rem;
+                        font-weight: bold;
+                    }
+                    h3{
+                        padding-top: 1rem;
+                    }
+                }
+            }
+        }
+    }
+}
