@@ -10,3 +10,267 @@
 @import "./layout/main-papas";
 @import "./layout/main-tortillas";
 @import "./layout/main-lomito";
+
+@media (max-width:1024px) {
+    .main-index {
+        .div-h1 {
+            h1 {
+                width: 70%;
+            }
+        }
+        section {
+            grid-template-columns: repeat(2, 21.875rem);
+            .card-1 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-2 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-3 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+            .card-4 {
+                img {
+                    width: 18.75rem;
+                    height: 14.375rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 7.8125rem;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:768px) {
+    .main-index {
+        .div-h1 {
+            h1 {
+                width: 83%;
+            }
+        }
+        section {
+            grid-template-columns: repeat(2, 18.75rem);
+            .card-1 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-2 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-3 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-4 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:650px) {
+    .main-index {
+        section {
+            grid-template-columns: repeat(1, 21.875rem);
+            grid-template-rows: repeat(4, 25rem);
+            grid-template-areas:
+                "sand"
+                "papa"
+                "tort"
+                "lomi"
+            ;
+            gap: .625rem;
+            .card-1 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-2 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-3 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-4 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:480px) {
+    .main-index {
+        .div-h1 {
+            h1 {
+                padding-top: .5rem;
+            }
+        }
+    }
+}
+
+@media (max-width:379px) {
+    .main-index {
+        section {
+            grid-template-columns: repeat(1,300px);
+            .card-1 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-2 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-3 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+            .card-4 {
+                height: 90%;
+                img {
+                    width: 15.625rem;
+                    height: 12.5rem;
+                }
+                h2 {
+                    padding-top: 1rem;
+                }
+                div {
+                    margin-left: 6.25rem;
+                }
+            }
+        }
+    }
+}
