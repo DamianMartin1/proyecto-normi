@@ -362,7 +362,7 @@ header .navbar-brand:hover {
   border-radius: 0.375rem;
   background-color: white;
   width: 60%;
-  height: 10.9375rem;
+  height: 11.875rem;
   display: flex;
   flex-direction: row;
 }
@@ -395,7 +395,7 @@ header .navbar-brand:hover {
   border-radius: 0.375rem;
   background-color: white;
   width: 60%;
-  height: 10.9375rem;
+  height: 11.875rem;
   display: flex;
   flex-direction: row;
 }
@@ -422,13 +422,13 @@ header .navbar-brand:hover {
   font-weight: bold;
 }
 .main-papas section .div-2 div h3 {
-  padding-top: 1rem;
+  padding-top: 0.1875rem;
 }
 .main-papas section .div-3 {
   border-radius: 0.375rem;
   background-color: white;
   width: 60%;
-  height: 10.9375rem;
+  height: 11.875rem;
   display: flex;
   flex-direction: row;
   margin-bottom: 3.125rem;
@@ -770,7 +770,6 @@ header .navbar-brand:hover {
     height: 10.625rem;
   }
   .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.8125rem;
     padding-top: 0.3125rem;
@@ -792,7 +791,6 @@ header .navbar-brand:hover {
     height: 10.625rem;
   }
   .main-sand section .div-2 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 2.25rem;
     padding-top: 0.3125rem;
@@ -814,7 +812,6 @@ header .navbar-brand:hover {
     height: 10.625rem;
   }
   .main-sand section .div-3 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.8125rem;
     padding-top: 0.3125rem;
@@ -836,7 +833,6 @@ header .navbar-brand:hover {
     height: 10.625rem;
   }
   .main-sand section .div-4 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 2.25rem;
     padding-top: 0.3125rem;
@@ -848,6 +844,216 @@ header .navbar-brand:hover {
   }
   .main-sand section .div-4 div h3 {
     padding-top: 0.625rem;
+  }
+  .main-papas section .div-1 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-1 img {
+    width: 40%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-papas section .div-2 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-2 img {
+    width: 40%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-2 div h3 {
+    padding-top: 0.1875rem;
+  }
+  .main-papas section .div-3 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-3 img {
+    width: 40%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-3 div p {
+    padding-top: 2.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-1 {
+    width: 75%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-1 img {
+    width: 40%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-1 div p {
+    padding-top: 1.125rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-1 div h3 {
+    padding-top: 1.875rem;
+  }
+  .main-tortillas section .div-2 {
+    width: 75%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-2 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-2 div p {
+    padding-top: 1.875rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-2 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-3 {
+    width: 75%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-3 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 2.1875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-3 div p {
+    padding-top: 1.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-lomito section .div-1 {
+    width: 77%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-1 img {
+    width: 38%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.25rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-2 {
+    width: 77%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-2 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-2 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-3 {
+    width: 77%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-3 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-3 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-4 {
+    width: 77%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-4 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-4 div h2 {
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-4 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-4 div h3 {
+    padding-top: 1rem;
   }
 }
 @media (max-width: 768px) {
@@ -918,7 +1124,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
     padding-top: 0.3125rem;
@@ -941,7 +1146,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
     padding-top: 0.3125rem;
@@ -964,7 +1168,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
     padding-top: 0.3125rem;
@@ -987,7 +1190,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
     padding-top: 0.3125rem;
@@ -999,6 +1201,216 @@ header .navbar-brand:hover {
   }
   .main-sand section .div-4 div h3 {
     font-size: 1.5625rem;
+    padding-top: 1rem;
+  }
+  .main-papas section .div-1 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-1 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-papas section .div-2 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-2 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-2 div h3 {
+    padding-top: 0.1875rem;
+  }
+  .main-papas section .div-3 {
+    width: 80%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-3 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-papas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-3 div p {
+    padding-top: 2.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-1 {
+    width: 85%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-1 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-1 div p {
+    padding-top: 1.125rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-1 div h3 {
+    padding-top: 1.875rem;
+  }
+  .main-tortillas section .div-2 {
+    width: 85%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-2 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-2 div p {
+    padding-top: 1.875rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-2 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-3 {
+    width: 85%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-3 img {
+    width: 28%;
+    height: 8.75rem;
+  }
+  .main-tortillas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 2.1875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-3 div p {
+    padding-top: 0.875rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-1 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-1 img {
+    width: 38%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.25rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-2 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-2 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-2 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-3 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-3 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-3 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-4 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-4 img {
+    width: 27%;
+    height: 8.75rem;
+  }
+  .main-lomito section .div-4 div h2 {
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-4 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-4 div h3 {
     padding-top: 1rem;
   }
 }
@@ -1070,7 +1482,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.5625rem;
     padding-top: 0.3125rem;
@@ -1093,7 +1504,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.5625rem;
     padding-top: 0.3125rem;
@@ -1116,7 +1526,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.5625rem;
     padding-top: 0.3125rem;
@@ -1139,7 +1548,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.5625rem;
     padding-top: 0.3125rem;
@@ -1151,6 +1559,189 @@ header .navbar-brand:hover {
   }
   .main-sand section .div-4 div h3 {
     font-size: 1.5625rem;
+    padding-top: 0.625rem;
+  }
+  .main-papas section .div-1 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-1 img {
+    width: 26%;
+    height: 8.125rem;
+  }
+  .main-papas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-papas section .div-2 {
+    width: 90%;
+    height: 12.5rem;
+  }
+  .main-papas section .div-2 img {
+    width: 26%;
+    height: 8.125rem;
+  }
+  .main-papas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-2 div h3 {
+    padding-top: 0.1875rem;
+  }
+  .main-papas section .div-3 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-3 img {
+    width: 26%;
+    height: 8.125rem;
+  }
+  .main-papas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-3 div p {
+    padding-top: 2.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-1 {
+    width: 90%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-1 img {
+    width: 28%;
+    height: 8.75rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-1 div p {
+    padding-top: 1.125rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-1 div h3 {
+    padding-top: 1.875rem;
+  }
+  .main-tortillas section .div-2 {
+    width: 90%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-2 img {
+    width: 28%;
+    height: 8.75rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.75rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-2 div p {
+    padding-top: 0.625rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-tortillas section .div-2 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-3 {
+    width: 90%;
+    height: 10.9375rem;
+  }
+  .main-tortillas section .div-3 img {
+    width: 28%;
+    height: 8.75rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-3 div p {
+    padding-top: 0.875rem;
+    font-size: 1.4375rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-1 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-2 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-2 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-2 div h3 {
+    padding-top: 0.625rem;
+  }
+  .main-lomito section .div-3 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-4 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-4 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-4 div h2 {
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-4 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-4 div h3 {
     padding-top: 0.625rem;
   }
 }
@@ -1167,7 +1758,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-1 div h1 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.4375rem;
     padding-top: 0.3125rem;
@@ -1190,7 +1780,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-2 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.4375rem;
     padding-top: 0.3125rem;
@@ -1213,7 +1802,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-3 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.4375rem;
     padding-top: 0.3125rem;
@@ -1236,7 +1824,6 @@ header .navbar-brand:hover {
     height: 8.75rem;
   }
   .main-sand section .div-4 div h2 {
-    font-family: "Hind Madurai", sans-serif;
     font-weight: 500;
     font-size: 1.4375rem;
     padding-top: 0.3125rem;
@@ -1248,6 +1835,227 @@ header .navbar-brand:hover {
   }
   .main-sand section .div-4 div h3 {
     font-size: 1.4375rem;
+    padding-top: 0.625rem;
+  }
+  .main-papas section .div-1 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-1 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.4375rem;
+  }
+  .main-papas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-papas section .div-2 {
+    width: 90%;
+    height: 12.5rem;
+  }
+  .main-papas section .div-2 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.4375rem;
+  }
+  .main-papas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.4375rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-2 div h3 {
+    padding-top: 0.1875rem;
+    font-size: 22px;
+  }
+  .main-papas section .div-3 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-3 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.4375rem;
+  }
+  .main-papas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-3 div p {
+    padding-top: 2.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-1 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-tortillas section .div-1 img {
+    width: 28%;
+    height: 7.8125rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-1 div p {
+    padding-top: 1.125rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-1 div h3 {
+    padding-top: 1.875rem;
+  }
+  .main-tortillas section .div-2 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-tortillas section .div-2 img {
+    width: 28%;
+    height: 7.8125rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.75rem;
+    padding-top: 0px;
+  }
+  .main-tortillas section .div-2 div p {
+    padding-top: 0.3125rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-tortillas section .div-2 div h3 {
+    padding-top: 0.625rem;
+  }
+  .main-tortillas section .div-3 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-tortillas section .div-3 img {
+    width: 28%;
+    height: 7.8125rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-3 div p {
+    padding-top: 0.875rem;
+    font-size: 1.4375rem;
+    font-weight: bold;
+  }
+  .main-tortillas section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-1 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-1 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 1.75rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-2 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-2 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-2 div h3 {
+    padding-top: 0.625rem;
+  }
+  .main-lomito section .div-3 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-3 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.6875rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-3 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-lomito section .div-3 div h3 {
+    padding-top: 1rem;
+  }
+  .main-lomito section .div-4 {
+    width: 92%;
+    height: 12.5rem;
+  }
+  .main-lomito section .div-4 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-4 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-lomito section .div-4 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-4 div h3 {
     padding-top: 0.625rem;
   }
 }
@@ -1398,6 +2206,160 @@ header .navbar-brand:hover {
   }
   .main-sand section .div-4 div h3 {
     font-size: 1.4375rem;
+    padding-top: 0.625rem;
+  }
+  .main-papas section .div-1 {
+    width: 94%;
+    height: 11.875rem;
+  }
+  .main-papas section .div-1 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.1875rem;
+  }
+  .main-papas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 2.5rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-1 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-1 div h3 {
+    padding-top: 1rem;
+  }
+  .main-papas section .div-2 {
+    width: 94%;
+    height: 13.75rem;
+  }
+  .main-papas section .div-2 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.1875rem;
+  }
+  .main-papas section .div-2 div h2 {
+    font-weight: 600;
+    font-size: 1.5625rem;
+  }
+  .main-papas section .div-2 div p {
+    padding-top: 1.25rem;
+    font-size: 1.4375rem;
+    font-weight: 600;
+  }
+  .main-papas section .div-2 div h3 {
+    padding-top: 1rem;
+    font-size: 1.375rem;
+  }
+  .main-papas section .div-3 {
+    width: 94%;
+    height: 12.5rem;
+  }
+  .main-papas section .div-3 img {
+    width: 26%;
+    height: 7.5rem;
+    margin-left: 0.1875rem;
+  }
+  .main-papas section .div-3 div h2 {
+    font-weight: 500;
+    font-size: 1.625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-papas section .div-3 div p {
+    padding-top: 2.0625rem;
+    font-size: 1.5625rem;
+    font-weight: bold;
+  }
+  .main-papas section .div-3 div h3 {
+    padding-top: 1.5625rem;
+  }
+  .main-tortillas section .div-1 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-tortillas section .div-1 img {
+    width: 28%;
+    height: 7.8125rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-1 div h1 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0.3125rem;
+  }
+  .main-tortillas section .div-1 div p {
+    padding-top: 1.125rem;
+    font-size: 1.4375rem;
+    font-weight: 600;
+  }
+  .main-tortillas section .div-1 div h3 {
+    padding-top: 1.875rem;
+  }
+  .main-tortillas section .div-2 {
+    width: 90%;
+    height: 11.875rem;
+  }
+  .main-tortillas section .div-2 img {
+    width: 28%;
+    height: 7.8125rem;
+    margin-left: 0.625rem;
+  }
+  .main-tortillas section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.75rem;
+    padding-top: 0px;
+  }
+  .main-tortillas section .div-2 div p {
+    padding-top: 0.3125rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-tortillas section .div-2 div h3 {
+    padding-top: 0.1875rem;
+  }
+  .main-lomito section .div-2 {
+    width: 92%;
+    height: 13.4375rem;
+  }
+  .main-lomito section .div-2 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-2 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0px;
+  }
+  .main-lomito section .div-2 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-2 div h3 {
+    padding-top: 0.625rem;
+  }
+  .main-lomito section .div-4 {
+    width: 92%;
+    height: 13.4375rem;
+  }
+  .main-lomito section .div-4 img {
+    width: 27%;
+    height: 8.75rem;
+    margin-left: 0.4375rem;
+  }
+  .main-lomito section .div-4 div h2 {
+    font-weight: 500;
+    font-size: 1.5625rem;
+    padding-top: 0px;
+  }
+  .main-lomito section .div-4 div p {
+    padding-top: 0.4375rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .main-lomito section .div-4 div h3 {
     padding-top: 0.625rem;
   }
 }
