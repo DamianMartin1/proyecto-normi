@@ -1,0 +1,16 @@
+footer{
+    background-color: #0E6AF4;
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: .625rem;
+        a{
+            color: white;
+            text-decoration: none;
+            font-family: 'Hind Madurai', sans-serif;
+            font-size: 1.4375rem;
+            font-weight: 600;
+        }
+    }
+}
